@@ -12,7 +12,7 @@ presskit_download_link                    :                                     
 source_code_link                          : https://github.com/amake/orgro
 support_link                              : https://github.com/amake/orgro/issues
 
-app_icon                                  : assets/appicon.png                        # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_icon                                  : /assets/appicon.png                       # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Orgro                                     # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : A mobile org-mode file viewer
