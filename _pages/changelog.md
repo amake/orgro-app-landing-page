@@ -13,8 +13,10 @@ include_in_header: true
 
 <br>
 
-# **Version 1.1**
+## **Version 1.1**
 Bug fixes
 
-# **Version 1.0**
+<br>
+
+## **Version 1.0**
 Initial release
