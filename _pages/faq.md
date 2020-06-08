@@ -19,9 +19,11 @@ appropriate file-providing APIs. As of 2020-6-8 that includes apps like Dropbox
 For other apps, you should be able to send your file to Orgro with the standard
 "share" or "open in" feature.
 
-## Can Orgro sync with Dropbox?
+# Can Orgro sync with Dropbox?
 
-Orgro doesn't have a concept of "syncing": you open a file to view its contents, and then you close it.
+Orgro doesn't have a concept of "syncing": you open a file to view its contents,
+and then you close it. No persistent data derived from the file is retained that
+must be kept "in sync".
 
 You can open files stored in Dropbox via the file picker (iOS only, due to
 [limitations of the Android
