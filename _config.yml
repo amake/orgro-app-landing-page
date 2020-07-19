@@ -45,6 +45,10 @@ features                                  :
     description                           : For easy viewing on mobile screens
     fontawesome_icon_name                 : mobile
 
+  - title                                 : LaTeX rendering
+    description                           : Crisp equations both inline and block
+    fontawesome_icon_name                 : square-root-alt
+
   - title                                 : Syntax highlighting
     description                           : Faithfully recreates the appearance in Emacs, in both light and dark modes
     fontawesome_icon_name                 : code
