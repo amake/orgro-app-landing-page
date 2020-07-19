@@ -7,7 +7,29 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 1.2.1**
+# **Version 1.5.0**
+- Render inline and block LaTeX (math) fragments
+- Org parser fixes
+
+<br>
+
+## **Version 1.4.0**
+- Hide app bar on scroll when viewing a document
+
+<br>
+
+## **Version 1.3.0**
+- Add syntax highlighting to source blocks
+
+<br>
+
+## **Version 1.2.2**
+- Fix possible crashes when opening files from other apps via intent
+- Fix broken headline layout when tags are too long
+
+<br>
+
+## **Version 1.2.1**
 - Change document font
 - Remember text settings and recently opened files
 
