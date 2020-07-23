@@ -7,7 +7,18 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 1.5.0**
+# **Version 1.6.1**
+- Fix Scroll To Top/Bottom buttons
+
+<br>
+
+## **Version 1.6.0**
+- Prettify org entities (like \Omega → Ω)
+- Bug fixes
+
+<br>
+
+## **Version 1.5.0**
 - Render inline and block LaTeX (math) fragments
 - Org parser fixes
 
