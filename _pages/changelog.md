@@ -7,7 +7,20 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 1.6.1**
+# **Version 1.7.1**
+- Bug fixes
+
+<br>
+
+## **Version 1.7.0**
+- New font: FiraGO
+- Improved appearance of bold, italic text
+- Bug fixes
+- Android only: Internet permission required for loading fonts (was broken before!)
+
+<br>
+
+## **Version 1.6.1**
 - Fix Scroll To Top/Bottom buttons
 
 <br>
