@@ -9,4 +9,4 @@ include_in_header: false
 
 # Privacy Policy
 
-We don't include any tracking or analytics, and gather no user data whatsoever.
+We don’t include any tracking or analytics, and gather no user data whatsoever.
