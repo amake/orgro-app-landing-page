@@ -7,7 +7,18 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 1.7.1**
+# **Version 1.9.0**
+- Improve layout on large screens
+
+<br>
+
+## **Version 1.8.1**
+- Rearrange app bar controls to give more space to the document title and make
+  frequently used controls more accessible
+
+<br>
+
+## **Version 1.7.1**
 - Bug fixes
 
 <br>
