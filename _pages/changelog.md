@@ -7,7 +7,13 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 1.9.0**
+# **Version 1.10.1**
+- New font: Iosevka
+- Use actual bold italic fonts when available
+
+<br>
+
+## **Version 1.9.0**
 - Improve layout on large screens
 
 <br>
