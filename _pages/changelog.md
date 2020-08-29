@@ -7,7 +7,12 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 1.11.0**
+# **Version 1.11.1**
+- Bug fixes
+
+<br>
+
+## **Version 1.11.0**
 - Improved Reader Mode
 
 <br>
