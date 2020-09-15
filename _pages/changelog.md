@@ -7,7 +7,15 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 1.11.1**
+# **Version 1.12.0**
+- Auto-detect encoding of opened files
+  - Note: Supported encodings differ on iOS and Android
+    ([details](https://github.com/amake/flutter_charset_detector#supported-charsets))
+- New font: JetBrains Mono
+
+<br>
+
+## **Version 1.11.1**
 - Bug fixes
 
 <br>
