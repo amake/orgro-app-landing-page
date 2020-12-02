@@ -7,7 +7,18 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 1.12.0**
+# **Version 1.13.0**
+- Toggle light/dark mode within the app
+- Can now handle GB-18030 encoding on Android
+
+<br>
+
+## **Version 1.12.2**
+- Better error handling
+
+<br>
+
+## **Version 1.12.0**
 - Auto-detect encoding of opened files
   - Note: Supported encodings differ on iOS and Android
     ([details](https://github.com/amake/flutter_charset_detector#supported-charsets))
