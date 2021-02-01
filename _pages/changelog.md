@@ -7,7 +7,12 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 1.13.0**
+# **Version 1.13.1**
+- Now available on [F-Droid](https://f-droid.org/en/packages/com.madlonkay.orgro/)
+
+<br>
+
+## **Version 1.13.0**
 - Toggle light/dark mode within the app
 - Can now handle GB-18030 encoding on Android
 
