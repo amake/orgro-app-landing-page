@@ -7,7 +7,18 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 1.13.1**
+# **Version 1.15.0**
+- Property lines and planning/clock lines no longer wrap
+
+<br>
+
+## **Version 1.14.0**
+- Fix handling of drawer content
+- Parse planning/clock lines as distinct elements
+
+<br>
+
+## **Version 1.13.1**
 - Now available on [F-Droid](https://f-droid.org/en/packages/com.madlonkay.orgro/)
 
 <br>
