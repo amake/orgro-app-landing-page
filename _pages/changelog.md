@@ -7,7 +7,19 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 1.15.0**
+# **Version 1.17.0**
+- Support displaying remote images
+- Reset cache from action menu on start screen
+
+<br>
+
+## **Version 1.16.0**
+- Update TeX rendering engine (KaTeX 0.13.0)
+- Migrate app to Dart 2.12 with sound null safety
+
+<br>
+
+## **Version 1.15.0**
 - Property lines and planning/clock lines no longer wrap
 
 <br>
