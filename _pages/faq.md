@@ -32,6 +32,6 @@ or by sharing to Orgro from inside the Dropbox app.
 
 # How does Orgro compare to other apps like [Orgzly](http://www.orgzly.com/) and [beorg](https://beorgapp.com/)?
 
-Orgro is a pure viewer for org-mode files with arbitrary content. Orgzly and
-beorg are better thought of as task/agenda managers that use org-mode files for
+Orgro is a pure viewer for Org Mode files with arbitrary content. Orgzly and
+beorg are better thought of as task/agenda managers that use Org Mode files for
 data import/export.
