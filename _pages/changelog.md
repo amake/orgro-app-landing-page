@@ -7,7 +7,16 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 1.17.0**
+# **Version 1.18.0**
+- Support relative links between Org Mode files (see
+  [FAQ](./faq/#how-can-i-use-relative-links-between-org-mode-files))
+- Support displaying relatively linked images
+- Better error reporting
+- File content is now updated when opening from the Recent Files list (iOS only)
+
+<br>
+
+## **Version 1.17.0**
 - Support displaying remote images
 - Reset cache from action menu on start screen
 
