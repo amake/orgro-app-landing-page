@@ -7,7 +7,18 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 1.18.1**
+# **Version 1.18.3**
+- Avoid prompting for directory access on unsupported files
+- Better feedback when errors occur
+
+<br>
+
+## **Version 1.18.2**
+- iOS only: Fixed granting file access not taking effect on first attempt
+
+<br>
+
+## **Version 1.18.1**
 - Support relative links between Org Mode files (see
   [FAQ](../faq/#how-can-i-use-relative-links-between-org-mode-files))
 - Support displaying relatively linked images
