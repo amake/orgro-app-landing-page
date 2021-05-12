@@ -73,6 +73,9 @@ certain conditions:
      - Resolving relative links may be slow
    - Android 4.4 and earlier: no support
 
+3. The way you opened the file also matters: files opened by intent on Android
+   do not support relative links.
+
 ## Granting permissions
 
 To allow Orgro to resolve a relative link to another Org Mode file, you must
