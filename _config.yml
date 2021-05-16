@@ -74,7 +74,7 @@ features                                  :
     fontawesome_icon_name                 : retweet
 
   - title                                 : FOSS for freedom
-    description                           : Get the source on GitHub for hacking or manual installation. Android users can get it on <a href="https://f-droid.org/en/packages/com.madlonkay.orgro/">F-Droid</a>.
+    description                           : Get the source on GitHub for hacking or manual installation. Android users can get it on <a href="https://f-droid.org/packages/com.madlonkay.orgro/">F-Droid</a>.
     fontawesome_icon_name                 : hand-holding-heart
 
   - title                                 : Walled gardens for convenience

@@ -52,7 +52,7 @@ include_in_header: true
 <br>
 
 ## **Version 1.13.1**
-- Now available on [F-Droid](https://f-droid.org/en/packages/com.madlonkay.orgro/)
+- Now available on [F-Droid](https://f-droid.org/packages/com.madlonkay.orgro/)
 
 <br>
 
