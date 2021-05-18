@@ -7,7 +7,14 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 1.18.3**
+# **Version 1.19.0**
+- Support `id:` and `#custom-id` links to local sections
+- Support `#custom-id` links to sections in relative files
+- Check app version, support info in new About dialog
+
+<br>
+
+## **Version 1.18.3**
 - Avoid prompting for directory access on unsupported files
 - Better feedback when errors occur
 
