@@ -51,6 +51,7 @@ certain conditions:
    - iOS
      - Local storage
      - iCloud Drive
+     - [Working Copy](https://workingcopyapp.com/)
    - Android
      - Local storage
      - [Seafile](https://www.seafile.com/en/features/)
