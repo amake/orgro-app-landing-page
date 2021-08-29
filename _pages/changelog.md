@@ -7,7 +7,14 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 1.19.0**
+# **Version 1.20.1**
+- Minor update to appearance
+- Ugly fonts no longer offered
+- Android only: `READ_EXTERNAL_STORAGE` permission no longer claimed
+
+<br>
+
+## **Version 1.19.0**
 - Support `id:` and `#custom-id` links to local sections
 - Support `#custom-id` links to sections in relative files
 - Check app version, support info in new About dialog
