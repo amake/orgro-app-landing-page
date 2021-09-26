@@ -7,7 +7,12 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 1.20.1**
+# **Version 1.21.1
+- Add Japanese localization
+
+<br>
+
+## **Version 1.20.1**
 - Minor update to appearance
 - Ugly fonts no longer offered
 - Android only: `READ_EXTERNAL_STORAGE` permission no longer claimed
