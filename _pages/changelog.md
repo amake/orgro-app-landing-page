@@ -7,7 +7,12 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 1.21.1**
+# **Version 1.22.1**
+- New font: Victor Mono
+
+<br>
+
+## **Version 1.21.1**
 - Add Japanese localization
 
 <br>
