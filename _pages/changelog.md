@@ -7,7 +7,14 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 1.23.0**
+# **Version 1.24.0**
+- Support keyboard shortcuts to open, close documents
+- Improve layout on large screens
+- Bug fixes
+
+<br>
+
+## **Version 1.23.0**
 - Added Ukranian localization (thanks, [@andmizyk](https://github.com/andmizyk))
 - Bug fixes
 
