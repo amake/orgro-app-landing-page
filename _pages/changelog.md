@@ -7,7 +7,12 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 1.24.0**
+# **Version 1.24.1**
+- Fixed search term highlighting not appearing in some circumstances
+
+<br>
+
+## **Version 1.24.0**
 - Support keyboard shortcuts to open, close documents
 - Improve layout on large screens
 - Bug fixes
