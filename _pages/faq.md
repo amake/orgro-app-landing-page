@@ -13,8 +13,8 @@ time soon.
 
 Orgro can directly open files accessible by the standard file-opening mechanisms
 on Android and iOS, including files within third-party apps that implement
-appropriate file-providing APIs. As of 2020-6-8 that includes apps like Dropbox
-(iOS only) and Google Drive.
+appropriate file-providing APIs. As of 2022-4-10 that includes apps like Dropbox
+and Google Drive.
 
 For other apps, you should be able to send your file to Orgro with the standard
 “share” or “open in” feature.
