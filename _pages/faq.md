@@ -25,10 +25,8 @@ Orgro doesn’t have a concept of “syncing”: you open a file to view its con
 and then you close it. No persistent data derived from the file is retained that
 must be kept “in sync”.
 
-You can open files stored in Dropbox via the file picker (iOS only, due to
-[limitations of the Android
-app](https://www.dropboxforum.com/t5/Discuss-Dropbox-Developer-API/why-using-Intent-ACTION-OPEN-DOCUMENT-does-not-list-the-Dropbox/td-p/209654))
-or by sharing to Orgro from inside the Dropbox app.
+You can open files stored in Dropbox via the file picker or by sharing to Orgro
+from inside the Dropbox app.
 
 # How does Orgro compare to other apps like [Orgzly](http://www.orgzly.com/) and [beorg](https://beorgapp.com/)?
 
