@@ -7,7 +7,12 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 1.24.1**
+# **Version 1.25.0**
+- Org document text can now be selected and copied
+
+<br>
+
+## **Version 1.24.1**
 - Fixed search term highlighting not appearing in some circumstances
 
 <br>
