@@ -7,7 +7,13 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 1.25.0**
+# **Version 1.26.1**
+- Documents can now be expanded to full-width on wide screens
+- Relative links can be resolved in more cases (Android only)
+
+<br>
+
+## **Version 1.25.0**
 - Org document text can now be selected and copied
 
 <br>
