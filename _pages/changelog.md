@@ -7,7 +7,12 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 1.26.1**
+# **Version 1.27.1**
+- Navigate search results and see the number of hits
+
+<br>
+
+## **Version 1.26.1**
 - Documents can now be expanded to full-width on wide screens
 - Relative links can be resolved in more cases (Android only)
 
