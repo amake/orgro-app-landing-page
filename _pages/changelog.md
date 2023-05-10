@@ -7,7 +7,13 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 1.27.1**
+# **Version 1.28.1**
+- Text is now only reflowed in Reader Mode
+- SVG images are now supported
+
+<br>
+
+## **Version 1.27.1**
 - Navigate search results and see the number of hits
 
 <br>
