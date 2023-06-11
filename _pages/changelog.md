@@ -7,7 +7,12 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 1.28.1**
+# **Version 1.28.3**
+- Fixed a bug parsing section titles
+
+<br>
+
+## **Version 1.28.1**
 - Text is now only reflowed in Reader Mode
 - SVG images are now supported
 
