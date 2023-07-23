@@ -7,7 +7,13 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 1.28.3**
+# **Version 1.29.0**
+- New fonts available
+- Bug fixes
+
+<br>
+
+## **Version 1.28.3**
 - Fixed a bug parsing section titles
 
 <br>
