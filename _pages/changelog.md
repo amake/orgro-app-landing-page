@@ -7,7 +7,13 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 1.29.0**
+# **Version 1.30.0**
+- Terminus font added by user request
+- Support Android 13 “themed” app icon
+
+<br>
+
+## **Version 1.29.0**
 - New fonts available
 - Bug fixes
 
