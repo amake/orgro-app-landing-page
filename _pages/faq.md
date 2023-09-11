@@ -19,9 +19,9 @@ auto-save a few seconds after the last change; look for the Snackbar
 notification.
 
 **Important:** When saving, Orgro will recreate the original file from its
-in-memory representation. In doing so it will attempt to minimize changes to
-only the parts you have edited, but it is possible that it may alter other parts
-as well. In particular, non-semantic white space may not be preserved.
+in-memory representation. In doing so it will attempt to limit changes to only
+the parts you have edited, but it is possible that it may alter other parts as
+well. In particular, non-semantic white space may not be preserved.
 
 **You are recommended to keep backups of your files in case Orgro mangles
 them.** Please [report](https://github.com/amake/orgro/issues) any issues you
