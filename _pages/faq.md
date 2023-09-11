@@ -13,7 +13,7 @@ Orgro has *experimental* support for a limited set of editing features, namely:
 - Toggling checkboxes on list items (`[ ]` ↔︎ `[X]`)
 - Cycling `TODO` keywords on headlines (`TODO` → `DONE` → none ↩︎)
 
-When Orgro has write permissions to current file, it will ask if you want to
+When Orgro has write permissions to the current file, it will ask if you want to
 save changes. Click “Always” or “Just this time” to allow saving. Orgro will
 auto-save a few seconds after the last change; look for the Snackbar
 notification.
