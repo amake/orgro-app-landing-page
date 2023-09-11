@@ -6,7 +6,7 @@ include_in_header: true
 
 # Can I edit my files with Orgro?
 
-(Coming soon!)
+(Coming in v1.32.0!)
 
 Orgro has *experimental* support for a limited set of editing features, namely:
 
