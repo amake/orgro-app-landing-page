@@ -7,7 +7,14 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 1.32.0**
+# **Version 1.33.3**
+- Undo/redo edits
+- Share unsaved edits
+- Jump to footnotes
+
+<br>
+
+## **Version 1.32.0**
 - Experimental support for editing: toggle list item checkboxes and cycle
   headline TODOs. Changes are written back to the original file when permissions
   allow. See [FAQ](https://orgro.org/faq/#can-i-edit-my-files-with-orgro) for
