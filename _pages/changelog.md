@@ -7,7 +7,12 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 1.33.3**
+# **Version 1.34.2**
+- Allow extending Org entities via local variables; see manual for details
+
+<br>
+
+## **Version 1.33.3**
 - Undo/redo edits
 - Share unsaved edits
 - Jump to footnotes
