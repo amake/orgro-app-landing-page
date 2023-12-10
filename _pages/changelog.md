@@ -8,7 +8,9 @@ include_in_header: true
 
 ### `Latest`
 # **Version 1.34.2**
-- Allow extending Org entities via local variables; see manual for details
+- Allow extending Org entities via local variables; see
+  [manual](https://github.com/amake/orgro/blob/master/assets/manual/orgro-manual.org#local-variables)
+  for details
 
 <br>
 
