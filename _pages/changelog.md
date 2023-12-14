@@ -7,7 +7,18 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 1.34.2**
+# **Version 1.35.2**
+- Slide sections to cycle TODO
+- Long touch on headline once again narrows immediately
+- Support numerous #+STARTUP keyword options; see
+  [manual](https://github.com/amake/orgro/blob/master/assets/manual/orgro-manual.org#startup-keywords)
+  for details
+- attachment: links are now supported
+- Bug fixes
+
+<br>
+
+## **Version 1.34.2**
 - Allow extending Org entities via local variables; see
   [manual](https://github.com/amake/orgro/blob/master/assets/manual/orgro-manual.org#local-variables)
   for details
