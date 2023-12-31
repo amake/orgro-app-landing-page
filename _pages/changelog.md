@@ -7,7 +7,14 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 1.35.2**
+# **Version 1.36.1**
+- Support symmetric decryption/encryption of Org Crypt sections; see
+  [manual](https://github.com/amake/orgro/blob/master/assets/manual/orgro-manual.org#encryption)
+  for details
+
+<br>
+
+## **Version 1.35.2**
 - Slide sections to cycle TODO
 - Long touch on headline once again narrows immediately
 - Support numerous #+STARTUP keyword options; see
