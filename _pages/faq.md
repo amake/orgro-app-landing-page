@@ -106,3 +106,19 @@ linked to.
 
 If all goes well, the banner will disappear and relative links will open on top
 of the starting document.
+
+# Can I filter a document like with `org-match-sparse-tree`?
+
+Orgro v1.37.0 and later support filtering a document to produce a “sparse tree”.
+See the [Orgro
+manual](https://github.com/amake/orgro/blob/master/assets/manual/orgro-manual.org#sparse-trees)
+for general information.
+
+The query language supported by Orgro is a subset of the full language described
+in the [Matching tags and
+properties](https://orgmode.org/manual/Matching-tags-and-properties.html)
+section of the Org manual. In particular:
+
+- Regex is not supported
+- Date/time-type property values are not supported
+- Group tags are not expanded
