@@ -122,3 +122,7 @@ section of the Org manual. In particular:
 - Regex is not supported
 - Date/time-type property values are not supported
 - Group tags are not expanded
+- Trailing TODO clauses (delimited by `/`) are not supported
+- Tags and properties are not inherited; in other words the matching behavior is
+  consistent with `org-use-tag-inheritance` and `org-use-property-inheritance`
+  both being `nil`
