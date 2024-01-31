@@ -7,7 +7,19 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 1.36.1**
+# **Version 1.37.6**
+- Support “sparse tree”-style filtering; see
+  [manual](https://github.com/amake/orgro/blob/master/assets/manual/orgro-manual.org#sparse-trees)
+  for details
+
+<br>
+
+## **Version 1.36.2**
+- Fix closing search mode while document is modified
+
+<br>
+
+## **Version 1.36.1**
 - Support symmetric decryption/encryption of Org Crypt sections; see
   [manual](https://github.com/amake/orgro/blob/master/assets/manual/orgro-manual.org#encryption)
   for details
