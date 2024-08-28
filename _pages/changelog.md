@@ -7,7 +7,13 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 1.37.6**
+# **Version 1.38.0**
+- Optimize image loading
+- Bug fixes and minor improvements
+
+<br>
+
+## **Version 1.37.6**
 - Support “sparse tree”-style filtering; see
   [manual](https://github.com/amake/orgro/blob/master/assets/manual/orgro-manual.org#sparse-trees)
   for details
