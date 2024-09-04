@@ -6,7 +6,9 @@ include_in_header: true
 
 # Can I edit my files with Orgro?
 
-Orgro has *experimental* support for a limited set of editing features, namely:
+Yes! Orgro has support for plain-text editing, where you edit raw markup.
+
+It also has a limited set of “structured” editing features, namely:
 
 - Toggling checkboxes on list items (`[ ]` ↔︎ `[X]`)
 - Cycling `TODO` keywords on headlines (`TODO` → `DONE` → none ↩︎)
@@ -46,9 +48,9 @@ from inside the Dropbox app.
 
 # How does Orgro compare to other apps like [Orgzly](http://www.orgzly.com/) and [beorg](https://beorgapp.com/)?
 
-Orgro is a pure viewer for Org Mode files with arbitrary content. Orgzly and
-beorg are better thought of as task/agenda managers that use Org Mode files for
-data import/export.
+Orgro is a general-purpose viewer and editor for Org Mode files with arbitrary
+content. Orgzly and beorg are better thought of as task/agenda managers that use
+Org Mode files for data import/export.
 
 # How can I use relative links between Org Mode files?
 

@@ -7,7 +7,13 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 1.38.0**
+# **Version 1.39.2**
+- Plain-text document editing
+- Bug fixes and minor improvements
+
+<br>
+
+## **Version 1.38.0**
 - Optimize image loading
 - Bug fixes and minor improvements
 
