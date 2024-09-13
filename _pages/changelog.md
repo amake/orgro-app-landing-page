@@ -49,10 +49,10 @@ include_in_header: true
 ## **Version 1.35.2**
 - Slide sections to cycle TODO
 - Long touch on headline once again narrows immediately
-- Support numerous #+STARTUP keyword options; see
+- Support numerous `#+STARTUP` keyword options; see
   [manual](https://github.com/amake/orgro/blob/master/assets/manual/orgro-manual.org#startup-keywords)
   for details
-- attachment: links are now supported
+- `attachment:` links are now supported
 - Bug fixes
 
 <br>
