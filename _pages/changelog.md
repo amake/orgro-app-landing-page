@@ -8,7 +8,7 @@ include_in_header: true
 
 ### `Latest`
 # **Version 1.40.4**
-- Resolve id: links to other files (great for [Org
+- Resolve `id:` links to other files (great for [Org
   Roam](https://www.orgroam.com/) users!)
 - Improve editing/saving of Org Crypt sections
 - Bug fixes
