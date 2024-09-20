@@ -71,6 +71,7 @@ conditions:
    - Android
      - Local storage
      - [Seafile](https://www.seafile.com/en/features/)
+     - [Nextcloud](https://nextcloud.com/)
 
    Storage providers known to *not* support directory permissions as of
    2021-4-26 include:
