@@ -7,7 +7,14 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 1.40.4**
+# **Version 1.41.5**
+- Support customizing TODO states via #+TODO: and related keywords
+- Linkify Org Cite citations and display citation data when tapped
+- Bug fixes
+
+<br>
+
+## **Version 1.40.4**
 - Resolve `id:` links to other files (great for [Org
   Roam](https://www.orgroam.com/) users!)
 - Improve editing/saving of Org Crypt sections
