@@ -7,7 +7,13 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 1.41.5**
+# **Version 1.42.1**
+- Support local Link Abbreviations (#+LINK:)
+- Show original text links when images fail to load
+
+<br>
+
+## **Version 1.41.5**
 - Support customizing TODO states via #+TODO: and related keywords
 - Linkify Org Cite citations and display citation data when tapped
 - Bug fixes
