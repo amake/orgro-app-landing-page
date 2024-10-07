@@ -7,9 +7,10 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 1.42.1**
+# **Version 1.42.2**
 - Support local Link Abbreviations (#+LINK:)
 - Show original text links when images fail to load
+- Fix Org document rendering bugs
 
 <br>
 
