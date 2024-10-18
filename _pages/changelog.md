@@ -7,7 +7,17 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 1.42.2**
+# **Version 1.43.3**
+- Create new files from the start screen
+- Show source of documents in Recent Files when possible
+- Support subscripts and superscripts
+- Support non-ASCII characters in headline tags
+- Make it possible to see all tags in headlines
+- Fix Org document rendering bugs
+
+<br>
+
+## **Version 1.42.2**
 - Support local Link Abbreviations (#+LINK:)
 - Show original text links when images fail to load
 - Fix Org document rendering bugs
