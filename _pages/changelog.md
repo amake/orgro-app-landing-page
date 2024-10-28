@@ -7,7 +7,14 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 1.43.3**
+# **Version 1.44.2**
+- Improved support for right-to-left scripts
+- Undo & redo buttons in the editor
+- Bug fixes
+
+<br>
+
+## **Version 1.43.3**
 - Create new files from the start screen
 - Show source of documents in Recent Files when possible
 - Support subscripts and superscripts
