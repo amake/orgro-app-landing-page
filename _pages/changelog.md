@@ -7,7 +7,7 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 1.45.1**
+# **Version 1.45.2**
 - Restore various state after being terminated by the OS
 - Improve resolution of Org Cite bibliographies
 - Bug fixes
