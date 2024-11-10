@@ -7,7 +7,12 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 1.46.2**
+# **Version 1.47.0**
+- Tap timestamps to edit with date/time picker
+
+<br>
+
+## **Version 1.46.2**
 - Update statistics cookies on checkbox toggle and TODO cycle
 - Improve rendering of meta keyword lines
 - Add Cascadia Code font
