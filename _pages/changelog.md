@@ -7,8 +7,15 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 1.47.0**
+# **Version 1.48.1**
+- Open media links and attachments in external apps
+- Render horizontal rules nicely
+
+<br>
+
+## **Version 1.47.1**
 - Tap timestamps to edit with date/time picker
+- Bug fixes
 
 <br>
 
