@@ -7,10 +7,11 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 1.48.2**
+# **Version 1.48.3**
 - Open media links and attachments in external apps
 - Render horizontal rules nicely
 - Respect Org local variables for controlling sub/superscripts
+- Bug fixes
 
 <br>
 
