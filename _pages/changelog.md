@@ -7,7 +7,16 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 1.48.3**
+# **Version 1.49.4**
+- Support `<<link targets>>` and `<<<radio targets>>>`
+- Jump to named elements
+- Highlighted jumped-to elements
+- Rendering improvements
+- Bug fixes
+
+<br>
+
+## **Version 1.48.3**
 - Open media links and attachments in external apps
 - Render horizontal rules nicely
 - Respect Org local variables for controlling sub/superscripts
