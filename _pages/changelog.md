@@ -7,7 +7,13 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 1.49.4**
+# **Version 1.50.1**
+- Support inline AVIF images
+- Rendering fixes
+
+<br>
+
+## **Version 1.49.4**
 - Support `<<link targets>>` and `<<<radio targets>>>`
 - Jump to named elements
 - Highlighted jumped-to elements
