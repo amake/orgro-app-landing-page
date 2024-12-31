@@ -7,9 +7,10 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 1.50.1**
+# **Version 1.50.3**
 - Support inline AVIF images
 - Rendering fixes
+- Other bug fixes
 
 <br>
 
