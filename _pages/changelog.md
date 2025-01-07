@@ -7,7 +7,13 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 1.50.3**
+# **Version 1.51.1**
+- Support rich content in drawer properties
+- Parsing fixes
+
+<br>
+
+## **Version 1.50.3**
 - Support inline AVIF images
 - Rendering fixes
 - Other bug fixes
