@@ -7,7 +7,14 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 1.51.1**
+# **Version 1.52.3**
+- Support inline src blocks
+- Rendering improvements
+- Bug fixes
+
+<br>
+
+## **Version 1.51.1**
 - Support rich content in drawer properties
 - Parsing fixes
 
