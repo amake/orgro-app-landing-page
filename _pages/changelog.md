@@ -7,7 +7,15 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 1.52.3**
+# **Version 1.53.2**
+- New settings screen
+- You can now set the default font and text size
+- Changes to font and text size within a document are remembered for that document
+- You can now reset settings separately from clearing cache
+
+<br>
+
+## **Version 1.52.3**
 - Support inline src blocks
 - Rendering improvements
 - Bug fixes
