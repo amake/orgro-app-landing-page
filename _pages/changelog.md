@@ -7,7 +7,13 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 1.53.2**
+# **Version 1.54.2**
+- Rendering improvements
+- Bug fixes
+
+<br>
+
+## **Version 1.53.2**
 - New settings screen
 - You can now set the default font and text size
 - Changes to font and text size within a document are remembered for that document
