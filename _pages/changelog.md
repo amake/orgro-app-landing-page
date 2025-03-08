@@ -7,7 +7,13 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 1.54.2**
+# **Version 1.55.1**
+- Much faster encryption/decryption
+- German localization
+
+<br>
+
+## **Version 1.54.2**
 - Rendering improvements
 - Bug fixes
 
