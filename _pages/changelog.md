@@ -7,7 +7,15 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 1.55.1**
+# **Version 1.56.2**
+- Improve block rendering
+- Support dynamic blocks
+- Honor `org-attach-id-dir` set in local variables
+- Improved handling of archived sections
+
+<br>
+
+## **Version 1.55.1**
 - Much faster encryption/decryption
 - German localization
 
