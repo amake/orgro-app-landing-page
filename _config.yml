@@ -150,4 +150,4 @@ collections:
     permalink: /:path/
 
 # Markdown rendering
-markdown: kramdown
+markdown: CommonMarkGhPages
