@@ -56,7 +56,7 @@ include_in_header: true
 <br>
 
 <details>
-<summary><h1>Older versions</h1></summary>
+<summary><strong>Older versions</strong></summary>
 
 ## **Version 1.49.4**
 - Support `<<link targets>>` and `<<<radio targets>>>`
