@@ -55,6 +55,11 @@ include_in_header: true
 
 <br>
 
+<details>
+<summary>
+## Older versions
+</summary>
+
 ## **Version 1.49.4**
 - Support `<<link targets>>` and `<<<radio targets>>>`
 - Jump to named elements
@@ -437,3 +442,5 @@ Bug fixes
 
 ## **Version 1.0**
 Initial release
+
+</details>
