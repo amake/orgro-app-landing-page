@@ -7,7 +7,13 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 1.56.2**
+# **Version 1.57.1**
+- Improve planning entry rendering
+- Avoid confirmation dialog on paste (iOS only)
+
+<br>
+
+## **Version 1.56.2**
 - Improve block rendering
 - Support dynamic blocks
 - Honor `org-attach-id-dir` set in local variables
