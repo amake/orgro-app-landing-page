@@ -7,7 +7,14 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 1.57.1**
+# **Version 1.58.2**
+- The recent files list can now be sorted
+- Aligning inline images is now supported
+- Rendering improvements
+
+<br>
+
+## **Version 1.57.1**
 - Improve planning entry rendering
 - Avoid confirmation dialog on paste (iOS only)
 
