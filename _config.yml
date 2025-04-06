@@ -155,3 +155,6 @@ markdown: CommonMarkGhPages
 commonmark:
   options: ["UNSAFE", "SMART", "FOOTNOTES"]
   extensions: ["strikethrough", "autolink", "table", "tagfilter"]
+
+plugins:
+  - jekyll-redirect-from
