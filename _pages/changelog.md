@@ -7,10 +7,11 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 1.58.2**
+# **Version 1.58.3**
 - The recent files list can now be sorted
 - Aligning inline images is now supported
 - Rendering improvements
+- Bug fixes
 
 <br>
 
