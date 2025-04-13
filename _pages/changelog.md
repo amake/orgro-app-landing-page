@@ -7,7 +7,12 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 1.58.3**
+# **Version 1.59.0**
+- You can now pin files to the top of the Recent Files list
+
+<br>
+
+## **Version 1.58.3**
 - The recent files list can now be sorted
 - Aligning inline images is now supported
 - Rendering improvements
