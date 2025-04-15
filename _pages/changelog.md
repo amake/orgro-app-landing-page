@@ -7,8 +7,9 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 1.59.0**
+# **Version 1.59.1**
 - You can now pin files to the top of the Recent Files list
+- Bug fixes
 
 <br>
 
