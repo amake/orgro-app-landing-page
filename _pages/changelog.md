@@ -7,7 +7,14 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 1.59.1**
+# **Version 1.60.2**
+- Open Org Mode files from URLs
+- https://orgro.org/manual opens directly in Orgro
+- Bug fixes
+
+<br>
+
+## **Version 1.59.1**
 - You can now pin files to the top of the Recent Files list
 - Bug fixes
 
