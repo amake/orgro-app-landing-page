@@ -7,7 +7,7 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 1.60.2**
+# **Version 1.60.6**
 - Open Org Mode files from URLs
 - https://orgro.org/manual opens directly in Orgro
 - Bug fixes
