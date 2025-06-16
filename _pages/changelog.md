@@ -7,7 +7,17 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 1.60.6**
+# **Version 1.61.2**
+- Create a new empty document via quick action
+- Open top pinned file via quick action
+- Can now “Save As” instead of sharing when changes can’t be written to file
+- Org Num mode is now supported via `#+STARTUP: num`
+- Additional proportional fonts now available
+- Added Russian localization
+
+<br>
+
+## **Version 1.60.6**
 - Open Org Mode files from URLs
 - https://orgro.org/manual opens directly in Orgro
 - Bug fixes
