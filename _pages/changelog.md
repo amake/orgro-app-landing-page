@@ -7,13 +7,14 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 1.61.4**
+# **Version 1.61.5**
 - Create a new empty document via quick action
 - Open top pinned file via quick action
 - Can now “Save As” instead of sharing when changes can’t be written to file
 - Org Num mode is now supported via `#+STARTUP: num`
 - Additional proportional fonts now available
 - Added Russian localization
+- Bug fixes
 
 <br>
 
