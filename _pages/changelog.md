@@ -7,7 +7,13 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 1.62.2**
+# **Version 1.63.0**
+- Add lots of keyboard shortcuts to the document view and editor screens
+- Bug fixes
+
+<br>
+
+## **Version 1.62.2**
 - Prevent accidental activation of floating action buttons when scrolling document
 - Improve editor styling
 - Bug fixes
