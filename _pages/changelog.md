@@ -7,7 +7,25 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 1.63.0**
+# **Version 1.65.1**
+- Get notifications about Org Agenda items
+- Honor `org-hidden-keywords` set in local variables
+- Add control to reset directory permissions
+- Bug fixes
+
+<br>
+
+## **Version 1.64.1**
+- List toggle buttons in editor
+- Continue list, section on new line in editor
+- Src block code reference links are now supported
+- New keyboard shortcuts on the start screen
+- Rendering improvements
+- Bug fixes
+
+<br>
+
+## **Version 1.63.0**
 - Add lots of keyboard shortcuts to the document view and editor screens
 - Bug fixes
 
