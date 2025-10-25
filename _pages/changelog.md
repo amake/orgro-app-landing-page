@@ -7,7 +7,7 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 1.65.1**
+# **Version 1.65.2**
 - Get notifications about Org Agenda items
 - Honor `org-hidden-keywords` set in local variables
 - Add control to reset directory permissions
