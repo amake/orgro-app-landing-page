@@ -7,7 +7,7 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 1.66.2**
+# **Version 1.66.3**
 - Support searching by regex
 - Support id: links with search options
 - Bug fixes
