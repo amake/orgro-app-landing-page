@@ -42,9 +42,17 @@ mastodon_link                             : https://mastodon.social/@amake
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Reflowed text
-    description                           : For easy viewing on mobile screens
-    fontawesome_icon_name                 : mobile
+  - title                                 : TODO & checkbox toggling
+    description                           : For easy task and progress tracking
+    fontawesome_icon_name                 : square-check
+
+  - title                                 : Quick actions
+    description                           : Jump straight to your most important file, or start a new one
+    fontawesome_icon_name                 : rocket
+
+  - title                                 : Agenda notifications
+    description                           : Never forget those important dates
+    fontawesome_icon_name                 : bell
 
   - title                                 : LaTeX rendering
     description                           : Crisp equations both inline and block
@@ -65,10 +73,6 @@ features                                  :
   - title                                 : Beautiful tables
     description                           : Guaranteed correct spacing, even with non-ASCII characters
     fontawesome_icon_name                 : table
-
-  - title                                 : Functional links
-    description                           : Open external links in your web browser, and section links in narrowed views
-    fontawesome_icon_name                 : link
 
   - title                                 : Visibility cycling
     description                           : Expand or collapse sections, blocks, and drawers just like in Emacs
