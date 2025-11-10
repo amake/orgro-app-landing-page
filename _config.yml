@@ -43,7 +43,7 @@ mastodon_link                             : https://mastodon.social/@amake
 features                                  :
 
   - title                                 : TODO & checkbox toggling
-    description                           : For easy task and progress tracking
+    description                           : For easy task and progress tracking, with <a href="https://orgmode.org/manual/Breaking-Down-Tasks.html">statistics cookies</a>!
     fontawesome_icon_name                 : check-square
 
   - title                                 : Quick actions
