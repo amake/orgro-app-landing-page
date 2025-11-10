@@ -44,7 +44,7 @@ features                                  :
 
   - title                                 : TODO & checkbox toggling
     description                           : For easy task and progress tracking
-    fontawesome_icon_name                 : square-check
+    fontawesome_icon_name                 : check-square
 
   - title                                 : Quick actions
     description                           : Jump straight to your most important file, or start a new one
