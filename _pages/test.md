@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Deep link test
+include_in_footer: false
 ---
 
 # Deep link test
