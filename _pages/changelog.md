@@ -7,9 +7,10 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 1.66.3**
+# **Version 1.66.4**
 - Support searching by regex
 - Support id: links with search options
+- Updated German localization
 - Bug fixes
 
 <br>
