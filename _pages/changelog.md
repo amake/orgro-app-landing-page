@@ -7,7 +7,15 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 1.66.7**
+# **Version 1.67.2**
+- Support repeating notifications
+- Completion logging when toggling repeating TODOs
+- Visibility cycling now skips full display; long press for full display
+- Bug fixes
+
+<br>
+
+## **Version 1.66.7**
 - Support searching by regex
 - Support id: links with search options
 - Updated German localization
