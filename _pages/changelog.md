@@ -7,7 +7,13 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 1.67.2**
+# **Version 1.68.0**
+- Support capturing text and links shared from other apps
+- Support org-protocol://capture URLs
+
+<br>
+
+## **Version 1.67.2**
 - Support repeating notifications
 - Completion logging when toggling repeating TODOs
 - Visibility cycling now skips full display; long press for full display
