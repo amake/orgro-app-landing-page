@@ -55,7 +55,7 @@ features                                  :
     fontawesome_icon_name                 : bell
 
   - title                                 : Capture text and links
-    description                           : Share into Orgro from the standard OS share function, or via `org-capture://` link
+    description                           : Share into Orgro from the standard OS share function, or via <code>org-capture://</code> link
     fontawesome_icon_name                 : share
 
   - title                                 : LaTeX rendering
