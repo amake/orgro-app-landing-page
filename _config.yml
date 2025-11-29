@@ -43,7 +43,7 @@ mastodon_link                             : https://mastodon.social/@amake
 features                                  :
 
   - title                                 : TODO & checkbox toggling
-    description                           : For easy task and progress tracking, with <a href="https://orgmode.org/manual/Breaking-Down-Tasks.html">statistics cookies</a>!
+    description                           : For easy task and progress tracking, with <a href="https://orgmode.org/manual/Breaking-Down-Tasks.html">statistics cookies</a>
     fontawesome_icon_name                 : check-square
 
   - title                                 : Quick actions
@@ -53,6 +53,10 @@ features                                  :
   - title                                 : Agenda notifications
     description                           : Never forget those important dates
     fontawesome_icon_name                 : bell
+
+  - title                                 : Capture text and links
+    description                           : Share into Orgro from the standard OS share function, or via `org-capture://` link
+    fontawesome_icon_name                 : share
 
   - title                                 : LaTeX rendering
     description                           : Crisp equations both inline and block
