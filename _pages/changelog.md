@@ -7,9 +7,10 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 1.68.0**
+# **Version 1.68.2**
 - Support capturing text and links shared from other apps
 - Support org-protocol://capture URLs
+- Bug fixes
 
 <br>
 
