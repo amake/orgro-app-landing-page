@@ -284,10 +284,18 @@ nav > ul li a:active {
 	color: $app-title-color;
 }
 
-.appPrice {
+.appPrice, .appTrialInfo {
 	color: $app-price-color;
 	font-weight: normal;
 	margin-top: 13px;
+}
+
+.appTrialInfo {
+  display: none;
+}
+
+.appleMobile .appTrialInfo {
+  display: block;
 }
 
 @media only screen and (max-width: 768px) {

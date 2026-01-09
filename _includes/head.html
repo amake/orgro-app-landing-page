@@ -23,4 +23,9 @@
     <meta property="og:title" content="{{ site.app_name }}">
     <meta property="og:description" content="{{ site.app_description }}">
     <meta property="og:image" content="{{ site.og_image }}">
+    <script>
+      if (/iPhone|iPod|iPad/.test(navigator.userAgent)) {
+        document.body.classList.add('appleMobile');
+      }
+    </script>
 </head>

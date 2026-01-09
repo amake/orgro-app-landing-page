@@ -17,6 +17,7 @@ app_icon                                  : /assets/appicon.png                 
 app_name                                  : Orgro                                     # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : $4.99                                     # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : A mobile Org Mode file editor and viewer
+app_trial_info                            : Try free for 7 days
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
