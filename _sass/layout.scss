@@ -298,6 +298,10 @@ nav > ul li a:active {
   display: block;
 }
 
+.appleMobile .playStoreLink {
+  display: none;
+}
+
 @media only screen and (max-width: 768px) {
 
 	.appNamePriceContainer {
