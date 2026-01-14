@@ -30,3 +30,11 @@ If the Settings screen does not show Orgro as unlocked,
 
 1. Try restoring purchases
 2. If that doesn't work, please [contact support](mailto:support@orgro.org)
+
+## What happens to my data if I don’t want to purchase?
+
+Orgro does not “contain” any of your Org documents; they are all stored
+somewhere on your device or in another app such as Dropbox, Google Drive, etc.
+that handles the actual storage. If you choose not to unlock Orgro, your data
+will still be right where you left it, accessible through the storing app or
+your device’s file browser.
