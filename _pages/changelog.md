@@ -7,17 +7,17 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 2.0.3**
+# **Version 2.0.4**
 (iOS only) Orgro is now free to try for 7 days. Afterwards you can purchase a
 one-time, permanent unlock of all features.
 
 Customers who previously purchased the app are automatically unlocked for no
-charge. ([More info](/unlock))
+charge. ([More info](/unlock))
 
 Android users can continue to get Orgro for free on
 [F-Droid](https://f-droid.org/packages/com.madlonkay.orgro/), or as an up-front
-purchase on [Google
-Play](https://play.google.com/store/apps/details?id=com.madlonkay.orgro).
+purchase on
+[Google Play](https://play.google.com/store/apps/details?id=com.madlonkay.orgro).
 
 <br>
 
