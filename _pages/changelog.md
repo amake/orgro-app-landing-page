@@ -7,7 +7,7 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 2.0.13**
+# **Version 2.0.16**
 iOS only: Orgro is now free to try for 7 days. Afterwards you can purchase a
 one-time, permanent unlock of all features.
 
