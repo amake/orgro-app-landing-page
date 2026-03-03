@@ -7,7 +7,15 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 2.0.16**
+# **Version 2.1.0**
+- Support transclusion via `#+transclude:` directives
+- Support `data:image/*` images
+- Inline tasks now have distinct syntax highlighting
+- Bug fixes
+
+<br>
+
+## **Version 2.0.16**
 iOS only: Orgro is now free to try for 7 days. Afterwards you can purchase a
 one-time, permanent unlock of all features.
 
