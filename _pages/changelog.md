@@ -7,9 +7,10 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 2.1.0**
+# **Version 2.1.2**
 - Support transclusion via `#+transclude:` directives
 - Support `data:image/*` images
+- Insert headline button in the editor
 - Inline tasks now have distinct syntax highlighting
 - Bug fixes
 
