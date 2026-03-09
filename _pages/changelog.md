@@ -7,10 +7,10 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 2.1.2**
+# **Version 2.1.3**
 - Support transclusion via `#+transclude:` directives
 - Support `data:image/*` images
-- Insert headline button in the editor
+- Insert headline, encrypt section buttons in the editor
 - Inline tasks now have distinct syntax highlighting
 - Bug fixes
 
