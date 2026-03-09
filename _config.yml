@@ -156,6 +156,7 @@ exclude:
 
 include:
   - .well-known
+  - social.org
 
 collections:
   pages:
