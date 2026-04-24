@@ -7,7 +7,14 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 2.1.3**
+# **Version 2.2.3**
+- Paste images into the editor to link/attach
+- Other minor improvements
+- Bug fixes
+
+<br>
+
+## **Version 2.1.3**
 - Support transclusion via `#+transclude:` directives
 - Support `data:image/*` images
 - Insert headline, encrypt section buttons in the editor
