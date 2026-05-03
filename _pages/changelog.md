@@ -7,7 +7,7 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 2.2.4**
+# **Version 2.2.5**
 - Paste images into the editor to link/attach
 - Other minor improvements
 - Bug fixes
