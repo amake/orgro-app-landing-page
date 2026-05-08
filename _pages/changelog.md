@@ -7,7 +7,14 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 2.2.4**
+# **Version 2.3.4**
+- Remember URLs in “Recent files” list
+- Try to open URL links to Org files in the app
+- Bug fixes
+
+<br>
+
+## **Version 2.2.4**
 - Paste images into the editor to link/attach
 - Other minor improvements
 - Bug fixes
