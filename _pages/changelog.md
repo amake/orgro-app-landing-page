@@ -7,7 +7,7 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 2.3.8**
+# **Version 2.3.10**
 - Remember URLs in “Recent files” list
 - Try to open URL links to Org files in the app
 - Bug fixes
