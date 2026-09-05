@@ -7,7 +7,14 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 2.3.10**
+# **Version 2.4.3**
+- Support completion logging (`#+STARTUP: logdone`)
+- Support `denote:` links
+- Bug fixes
+
+<br>
+
+## **Version 2.3.10**
 - Remember URLs in “Recent files” list
 - Try to open URL links to Org files in the app
 - Bug fixes
