@@ -12,7 +12,7 @@
         <div class="container subPageContainer">
         {% include header.html %}
             <article class="page markdown-body">
-                {{ content }}
+                {% include anchor_headings.html html=content anchorBody="#" beforeHeading=true %}
             </article>
         </div>
         {% include appstoreimages.html %}
