@@ -12,6 +12,24 @@ $primary-text-color: #000000;
   font-style: normal;
 }
 
+.headingAnchor {
+  display: none;
+  position: absolute;
+  margin-left: -1.5rem;
+  padding-right: 0.5rem;
+  color: $accent-color;
+  text-decoration: none;
+}
+
+h1:hover .headingAnchor,
+h2:hover .headingAnchor,
+h3:hover .headingAnchor,
+h4:hover .headingAnchor,
+h5:hover .headingAnchor,
+h6:hover .headingAnchor {
+  display: inline-block;
+}
+
 html {
 	font-size: 62.5%;
 	font-family: $font;
