@@ -15,10 +15,11 @@ $primary-text-color: #000000;
 .headingAnchor {
   display: none;
   position: absolute;
-  margin-left: -1.5rem;
-  padding-right: 0.5rem;
+  margin-left: -1.2em;
   color: $accent-color;
-  text-decoration: none;
+  text-decoration: none !important;
+  font-size: 0.8em;
+  vertical-align: bottom;
 }
 
 h1:hover .headingAnchor,
@@ -27,7 +28,7 @@ h3:hover .headingAnchor,
 h4:hover .headingAnchor,
 h5:hover .headingAnchor,
 h6:hover .headingAnchor {
-  display: inline-block;
+  display: inline;
 }
 
 html {
