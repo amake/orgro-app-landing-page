@@ -15,11 +15,18 @@ $primary-text-color: #000000;
 .headingAnchor {
   display: none;
   position: absolute;
-  margin-left: -1.2em;
+  margin-left: -1.3em;
+  /* This is a hack to keep the anchor's bbox contiguous with the heading's bbox,
+     so it stays visible as you move the cursor to the anchor. */
+  padding-right: 0.5em;
   color: $accent-color;
   text-decoration: none !important;
-  font-size: 0.8em;
-  vertical-align: bottom;
+  font-size: 0.7em;
+  top: 0.3em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  position: relative;
 }
 
 h1:hover .headingAnchor,
@@ -28,7 +35,7 @@ h3:hover .headingAnchor,
 h4:hover .headingAnchor,
 h5:hover .headingAnchor,
 h6:hover .headingAnchor {
-  display: inline;
+  display: inline-block;
 }
 
 html {
