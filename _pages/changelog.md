@@ -7,7 +7,7 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 2.4.3**
+# **Version 2.4.4**
 - Support completion logging (`#+STARTUP: logdone`)
 - Support `denote:` links
 - Bug fixes
