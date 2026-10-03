@@ -7,7 +7,13 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 2.4.5**
+# **Version 2.5.8**
+- New Agenda view
+- Bug fixes
+
+<br>
+
+## **Version 2.4.5**
 - Support completion logging (`#+STARTUP: logdone`)
 - Support `denote:` links
 - Bug fixes
