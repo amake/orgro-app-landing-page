@@ -7,7 +7,7 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 2.6.1**
+# **Version 2.6.2**
 - Surface overdue SCHEDULED: and DEADLINE: items in Agenda view
 - Bug fixes
 
