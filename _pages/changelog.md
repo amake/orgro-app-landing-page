@@ -7,7 +7,7 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 2.7.1**
+# **Version 2.7.2**
 - Customize when you receive agenda notifications
 - Choose a file to capture to with file picker
 - Updated Ukrainian localization
